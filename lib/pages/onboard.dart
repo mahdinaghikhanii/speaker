@@ -49,8 +49,8 @@ class OnboardPage extends StatelessWidget {
                       ),
                     ),
                   ),
-                  SizedBox(height: 10),
-                  Row(
+                  const SizedBox(height: 10),
+                  const Row(
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: [
                       Text(
